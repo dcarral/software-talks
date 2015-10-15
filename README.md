@@ -13,3 +13,5 @@ October, 2015
 * [_Beyond Responsive: Building a mobile web you're f*ing proud of_](https://youtu.be/Y4ZTRztwLrg) by Kate Hudson @ JSConf US 2015
 
 * [_Ruby 3.0_](https://youtu.be/48iKjUcENRE) by Yukihiro Matsumoto @ Full Stack Fest 2015
+
+* [_From Protesting to Programming: Becoming a Tech Activist_](https://www.youtube.com/watch?v=gy82S8tjJX8) by Idalin/Abby Bobé @ Strange Loop
