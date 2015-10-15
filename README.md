@@ -1,6 +1,6 @@
 # software-talks
 
-Keeping track of all the software-related talks watched from October 2015 onwards.
+Keeping track of software-related talks watched from October 2015 onwards.
 
 October, 2015
 
