@@ -17,3 +17,5 @@ October, 2015
 * [_From Protesting to Programming: Becoming a Tech Activist_](https://www.youtube.com/watch?v=gy82S8tjJX8) by Idalin/Abby Bobé @ Strange Loop
 
 * [_Blending Functional and OO Programming in Ruby_](https://youtu.be/rMxurF4oqsc) by Piotr Solnica @ Full Stack Fest 2015
+
+* [_math == art && art == code_](https://youtu.be/Z1q71gFeRqM) by John Brown @ JSConf US 2015
