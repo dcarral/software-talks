@@ -2,7 +2,7 @@
 
 Keeping track of software-related talks watched from October 2015 onwards, grouped by month.
 
-Contributions (in the form of talk suggestions) are more than welcome. Take a look at the [_'Contributing'_](###Contributing) section below.
+Contributions (in the form of talk suggestions) are more than welcome. Take a look at the [_'Contributing'_](#user-content-contributing) section below.
 
 ## October, 2015
 
