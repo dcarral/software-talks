@@ -2,6 +2,8 @@
 
 Keeping track of software-related talks watched from October 2015 onwards, grouped by month.
 
+Contributions (in the form of talk suggestions) are more than welcome. Take a look at the [_'Contributing'_](###Contributing) section below.
+
 ## October, 2015
 
 * [_Programming is terrible — Lessons learned from a life wasted_](https://www.youtube.com/watch?t=14&v=csyL9EC0S0c) by Thomas Edward Figg @ EMF2012
@@ -23,3 +25,9 @@ Keeping track of software-related talks watched from October 2015 onwards, group
 * [_If you wish to learn ES6/2015 from scratch, you must first invent the universe_](https://youtu.be/DN4yLZB1vUQ) by Ashley Williams @ JSConf US 2015
 
 * [_EuRuKo 2015_](http://euruko2015.org) @ Salzburg (Austria)
+
+### Contributing
+
+Although this repo doesn't contain any code (yet), contributions are more than welcome.
+
+Would you like to recommend me a software-related talk? Don't hesitate to [report it as an issue](https://github.com/dcarral/software-talks/issues) and I'd be happy to check it out ;)
