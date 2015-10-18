@@ -1,8 +1,8 @@
 # software-talks
 
-Keeping track of software-related talks watched from October 2015 onwards.
+Keeping track of software-related talks watched from October 2015 onwards, grouped by month.
 
-October, 2015
+## October, 2015
 
 * [_Programming is terrible — Lessons learned from a life wasted_](https://www.youtube.com/watch?t=14&v=csyL9EC0S0c) by Thomas Edward Figg @ EMF2012
 
