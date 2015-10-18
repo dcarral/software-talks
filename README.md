@@ -21,3 +21,5 @@ October, 2015
 * [_math == art && art == code_](https://youtu.be/Z1q71gFeRqM) by John Brown @ JSConf US 2015
 
 * [_If you wish to learn ES6/2015 from scratch, you must first invent the universe_](https://youtu.be/DN4yLZB1vUQ) by Ashley Williams @ JSConf US 2015
+
+* [_EuRuKo 2015_](http://euruko2015.org) @ Salzburg (Austria)
