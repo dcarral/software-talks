@@ -26,6 +26,8 @@ Contributions (in the form of talk suggestions) are more than welcome. Take a lo
 
 * [_EuRuKo 2015_](http://euruko2015.org) @ Salzburg (Austria)
 
+* [_Front End Ops Tooling_](https://youtu.be/Y0DCZdAruvo) by Nico Bevacqua @ JSConf 2014
+
 ### Contributing
 
 Although this repo doesn't contain any code (yet), contributions are more than welcome.
