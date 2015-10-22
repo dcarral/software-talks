@@ -28,6 +28,8 @@ Contributions (in the form of talk suggestions) are more than welcome. Take a lo
 
 * [_Front End Ops Tooling_](https://youtu.be/Y0DCZdAruvo) by Nico Bevacqua @ JSConf 2014
 
+* [_React - Rethinking Best Practices (updated)_](https://youtu.be/DgVS-zXgMTk) by Pete Hunt @ JSConf Asia 2013
+
 ### Contributing
 
 Although this repo doesn't contain any code (yet), contributions are more than welcome.
