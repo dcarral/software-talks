@@ -30,6 +30,8 @@ Contributions (in the form of talk suggestions) are more than welcome. Take a lo
 
 * [_React - Rethinking Best Practices (updated)_](https://youtu.be/DgVS-zXgMTk) by Pete Hunt @ JSConf Asia 2013
 
+* [_Amelia Bedelia Learns to Code_](https://youtu.be/bSbla50tqZE) by Kylie Stradley @ RailsConf 2015
+
 ### Contributing
 
 Although this repo doesn't contain any code (yet), contributions are more than welcome.
