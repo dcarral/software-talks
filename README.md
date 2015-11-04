@@ -32,6 +32,10 @@ Contributions (in the form of talk suggestions) are more than welcome. Take a lo
 
 * [_Amelia Bedelia Learns to Code_](https://youtu.be/bSbla50tqZE) by Kylie Stradley @ RailsConf 2015
 
+## November, 2015
+
+* [_Codemotion Berlin 2015_](http://berlin2015.codemotionworld.com/) @ Berlin (Germany)
+
 ### Contributing
 
 Although this repo doesn't contain any code (yet), contributions are more than welcome.
