@@ -36,6 +36,8 @@ Contributions (in the form of talk suggestions) are more than welcome. Take a lo
 
 * [_Codemotion Berlin 2015_](http://berlin2015.codemotionworld.com/) @ Berlin (Germany)
 
+* [_JavaScript transformation_](https://youtu.be/rKuNbEwoQfQ) by Sebastian McKenzie @ JSConf US 2015
+
 ### Contributing
 
 Although this repo doesn't contain any code (yet), contributions are more than welcome.
