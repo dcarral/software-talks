@@ -46,4 +46,4 @@ Contributions (in the form of talk suggestions) are more than welcome. Take a lo
 
 Although this repo doesn't contain any code (yet), contributions are more than welcome.
 
-Would you like to recommend me a software-related talk? Don't hesitate to [report it as an issue](https://github.com/dcarral/software-talks/issues) and I'd be happy to check it out ;)
+Would you like to recommend me a software-related talk? Don't hesitate to [report it as an issue](https://github.com/dcarral/software-talks/issues) or ping me and I'd be happy to check it out ;)
