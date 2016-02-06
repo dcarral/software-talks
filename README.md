@@ -34,17 +34,17 @@ Contributions (in the form of talk suggestions) are more than welcome. Take a lo
 
 ## November, 2015
 
-* [Conference][_Codemotion Berlin 2015_](http://berlin2015.codemotionworld.com/)
+* [Conference] [_Codemotion Berlin 2015_](http://berlin2015.codemotionworld.com/)
 
 * [_JavaScript transformation_](https://youtu.be/rKuNbEwoQfQ) by Sebastian McKenzie @ JSConf US 2015
 
 ## December, 2015
 
-* [Conference][_GOTO Berlin 2015_](http://gotocon.com/berlin-2015/)
+* [Conference] [_GOTO Berlin 2015_](http://gotocon.com/berlin-2015/)
 
 ## January, 2016
 
-* [Conference][_microXchg 2016_](http://microxchg.io/2016/index.html) @ Berlin, Germany
+* [Conference] [_microXchg 2016_](http://microxchg.io/2016/index.html) @ Berlin, Germany
 
 ### Contributing
 
