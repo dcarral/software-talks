@@ -34,9 +34,13 @@ Contributions (in the form of talk suggestions) are more than welcome. Take a lo
 
 ## November, 2015
 
-* [_Codemotion Berlin 2015_](http://berlin2015.codemotionworld.com/) @ Berlin (Germany)
+* [_Codemotion Berlin 2015_](http://berlin2015.codemotionworld.com/)
 
 * [_JavaScript transformation_](https://youtu.be/rKuNbEwoQfQ) by Sebastian McKenzie @ JSConf US 2015
+
+## December, 2015
+
+* [_GOTO Berlin 2015_](http://gotocon.com/berlin-2015/)
 
 ### Contributing
 
