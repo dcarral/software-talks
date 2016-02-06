@@ -42,6 +42,10 @@ Contributions (in the form of talk suggestions) are more than welcome. Take a lo
 
 * [_GOTO Berlin 2015_](http://gotocon.com/berlin-2015/)
 
+## January, 2016
+
+* [_microXchg 2016_](http://microxchg.io/2016/index.html) @ Berlin, Germany
+
 ### Contributing
 
 Although this repo doesn't contain any code (yet), contributions are more than welcome.
