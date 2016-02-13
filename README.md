@@ -4,6 +4,20 @@ Keeping track of software-related talks watched from October 2015 onwards, group
 
 Contributions (in the form of talk suggestions) are more than welcome. Take a look at the [_'Contributing'_](#user-content-contributing) section below.
 
+## January, 2016
+
+* [Conference] [_microXchg 2016_](http://microxchg.io/2016/index.html) @ Berlin, Germany
+
+## December, 2015
+
+* [Conference] [_GOTO Berlin 2015_](http://gotocon.com/berlin-2015/)
+
+## November, 2015
+
+* [Conference] [_Codemotion Berlin 2015_](http://berlin2015.codemotionworld.com/)
+
+* [_JavaScript transformation_](https://youtu.be/rKuNbEwoQfQ) by Sebastian McKenzie @ JSConf US 2015
+
 ## October, 2015
 
 * [_Programming is terrible — Lessons learned from a life wasted_](https://www.youtube.com/watch?t=14&v=csyL9EC0S0c) by Thomas Edward Figg @ EMF2012
@@ -32,19 +46,7 @@ Contributions (in the form of talk suggestions) are more than welcome. Take a lo
 
 * [_Amelia Bedelia Learns to Code_](https://youtu.be/bSbla50tqZE) by Kylie Stradley @ RailsConf 2015
 
-## November, 2015
-
-* [Conference] [_Codemotion Berlin 2015_](http://berlin2015.codemotionworld.com/)
-
-* [_JavaScript transformation_](https://youtu.be/rKuNbEwoQfQ) by Sebastian McKenzie @ JSConf US 2015
-
-## December, 2015
-
-* [Conference] [_GOTO Berlin 2015_](http://gotocon.com/berlin-2015/)
-
-## January, 2016
-
-* [Conference] [_microXchg 2016_](http://microxchg.io/2016/index.html) @ Berlin, Germany
+---
 
 ### Contributing
 
