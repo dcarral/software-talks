@@ -4,6 +4,10 @@ Keeping track of software-related talks watched from October 2015 onwards, group
 
 Contributions (in the form of talk suggestions) are more than welcome. Take a look at the [_'Contributing'_](#user-content-contributing) section below.
 
+## March, 2016
+
+* [_Redux: Simplifying Application State in JavaScript_](https://youtu.be/okdC5gcD-dM) by Tim Griesser @ Nodevember
+
 ## February, 2016
 
 * [_Live React: Hot Reloading with Time Travel_](https://www.youtube.com/watch?v=xsSnOQynTHs) by Dan Abramov @ react-europe 2015
