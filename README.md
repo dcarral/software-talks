@@ -1,8 +1,6 @@
 # software-talks
 
-Keeping track of software-related talks watched from October 2015 onwards, grouped by month.
-
-Contributions (in the form of talk suggestions) are more than welcome. Take a look at the [_'Contributing'_](#user-content-contributing) section below.
+Software-related talks watched from October 2015 onwards, grouped by month. [_Suggestions_](#user-content-suggestions) are always welcome ;)
 
 ## March, 2016
 
@@ -56,8 +54,6 @@ Contributions (in the form of talk suggestions) are more than welcome. Take a lo
 
 ---
 
-### Contributing
+### Suggestions
 
-Although this repo doesn't contain any code (yet), contributions are more than welcome.
-
-Would you like to recommend me a software-related talk? Don't hesitate to [report it as an issue](https://github.com/dcarral/software-talks/issues) or ping me and I'd be happy to check it out ;)
+Would you like to recommend me a software-related talk? [Report it as an issue](https://github.com/dcarral/software-talks/issues) and I'd be happy to check it out ;)
