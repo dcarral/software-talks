@@ -2,6 +2,9 @@
 
 Software-related talks watched from October 2015 onwards, grouped by month. [_Suggestions_](#user-content-suggestions) are always welcome ;)
 
+
+* [_Optimize Your Front-End Workflow_](https://www.youtube.com/watch?v=rXqacXEhmvk) by Christian Vuerings @ San Francisco HTML5 Developer Group.
+
 ## March, 2016
 
 * [_Redux: Simplifying Application State in JavaScript_](https://youtu.be/okdC5gcD-dM) by Tim Griesser @ Nodevember
