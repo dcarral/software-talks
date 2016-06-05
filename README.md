@@ -2,6 +2,9 @@
 
 Software-related talks watched from October 2015 onwards, grouped by month. [_Suggestions_](#user-content-suggestions) are always welcome ;)
 
+## April, 2016
+
+* [_10 Principles for effective Front-end Development_](https://www.youtube.com/watch?v=8adsZeMQjGQ) by Harry Roberts @ dotCSS 2014.
 
 * [_Optimize Your Front-End Workflow_](https://www.youtube.com/watch?v=rXqacXEhmvk) by Christian Vuerings @ San Francisco HTML5 Developer Group.
 
