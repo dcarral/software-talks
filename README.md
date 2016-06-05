@@ -2,6 +2,10 @@
 
 Software-related talks watched from October 2015 onwards, grouped by month. [_Suggestions_](#user-content-suggestions) are always welcome ;)
 
+## June, 2016
+
+* [_Move Slow and Fix Things_](https://youtu.be/zmjfh099zYg) by Daniel Eden @ dotCSS 2015.
+
 ## May, 2016
 
 * [_Serverless Microservices in JavaScript_](https://www.youtube.com/watch?v=2kXYUlG1eXA) by Nicolas Grenié @ dotJS 2015.
