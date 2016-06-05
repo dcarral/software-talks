@@ -2,6 +2,9 @@
 
 Software-related talks watched from October 2015 onwards, grouped by month. [_Suggestions_](#user-content-suggestions) are always welcome ;)
 
+## May, 2016
+
+* [_Serverless Microservices in JavaScript_](https://www.youtube.com/watch?v=2kXYUlG1eXA) by Nicolas Grenié @ dotJS 2015.
 
 * [_Saving Sprockets_](https://www.youtube.com/watch?v=imE397wVWgY) by Richard Schneeman @ RailsConf 2016.
 
