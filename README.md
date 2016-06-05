@@ -2,6 +2,9 @@
 
 Software-related talks watched from October 2015 onwards, grouped by month. [_Suggestions_](#user-content-suggestions) are always welcome ;)
 
+
+* [_Saving Sprockets_](https://www.youtube.com/watch?v=imE397wVWgY) by Richard Schneeman @ RailsConf 2016.
+
 * [_The future of programming_](https://www.youtube.com/watch?v=8pTEmbeENF4) by Bret Victor @ Dropbox's DBX conference.
 
 * [Live] [_From ES5 to ES6 and ECMAScript 2016_](https://speakerdeck.com/rauschma/from-es5-to-es6-and-ecmascript-2016-may-2016) by Axel Rauschmayer @ #ebaytechtalk EXTRA meetup (Berlin, Germany).
