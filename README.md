@@ -2,6 +2,10 @@
 
 Software-related talks watched from October 2015 onwards, grouped by month.
 
+## July, 2016
+
+* [_Enhancing responsiveness with Flexbox_](https://youtu.be/_98SE8WUvLk) by Zoe Mickley Gillenwater @ CSS Conf EU 2015.
+
 ## June, 2016
 
 * [_A handful of typographic challenges_](https://www.youtube.com/watch?v=MI7Xz-_ddu4) by Bert Bos @ dotCSS 2014.
