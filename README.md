@@ -4,6 +4,7 @@ Software-related talks watched from October 2015 onwards, grouped by month.
 
 ## July, 2016
 
+* [_Hopelessness and confidence in distributed systems design_](https://youtu.be/TlU1opuCXB0) by Camille Fournier @ Strange Loop.
 * [_Enhancing responsiveness with Flexbox_](https://youtu.be/_98SE8WUvLk) by Zoe Mickley Gillenwater @ CSS Conf EU 2015.
 
 ## June, 2016
