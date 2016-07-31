@@ -1,6 +1,6 @@
 # software-talks
 
-Software-related talks watched from October 2015 onwards, grouped by month. [_Suggestions_](#user-content-suggestions) are always welcome ;)
+Software-related talks watched from October 2015 onwards, grouped by month.
 
 ## June, 2016
 
@@ -73,7 +73,3 @@ Software-related talks watched from October 2015 onwards, grouped by month. [_Su
 * [_React - Rethinking Best Practices (updated)_](https://youtu.be/DgVS-zXgMTk) by Pete Hunt @ JSConf Asia 2013.
 
 * [_Amelia Bedelia Learns to Code_](https://youtu.be/bSbla50tqZE) by Kylie Stradley @ RailsConf 2015.
-
-### Suggestions
-
-Would you like to recommend me a software-related talk? [Report it as an issue](https://github.com/dcarral/software-talks/issues) and I'd be happy to check it out ;)
