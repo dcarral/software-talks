@@ -79,7 +79,7 @@ Software-related talks watched from October 2015 onwards, grouped by month.
 
 * [_If you wish to learn ES6/2015 from scratch, you must first invent the universe_](https://youtu.be/DN4yLZB1vUQ) by Ashley Williams @ JSConf US 2015.
 
-* [_EuRuKo 2015_](http://euruko2015.org) @ Salzburg (Austria).
+* [Conference] [_EuRuKo 2015_](http://euruko2015.org) @ Salzburg, Austria.
 
 * [_Front End Ops Tooling_](https://youtu.be/Y0DCZdAruvo) by Nico Bevacqua @ JSConf 2014.
 
