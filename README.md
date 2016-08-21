@@ -4,6 +4,7 @@ Software-related talks watched from October 2015 onwards, grouped by month.
 
 ## August, 2016
 
+* [_Why the cool kids don't use Erlang_](https://www.youtube.com/watch?v=3MvKLOecT1I) by Garrett Smith @ Erlang User Conference (2014)
 * [_The mess we're in_](https://youtu.be/lKXe3HUG2l4) by Joe Armstrong @ Strange Loop (2014)
 
 ## July, 2016
